@@ -1,1 +1,2 @@
-[200~echo # CompetitiveProgramming
+# CompetitiveProgramming
+My solutions to some competitive programming problems
