@@ -5,4 +5,3 @@ int main(){
     int n,c;
     cin >> n >> c;
 
-}
